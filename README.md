@@ -11,4 +11,5 @@
 <p> To create this web app, we developed our coding using Javascript, HTML and CSS, and utilized TheMealDB API. The API enabled us to connect our queries for randomized ingredient search to the database of recipes. Our code was then built around extracting the information from the query and processing it for display on our webpage using HTML and CSS.
 
 <p> We were also able to enhance the visual appeal using queries for images of recipes from the database using the API connecting the recipe.
+  
 ## APIs Used: TheMealDB
