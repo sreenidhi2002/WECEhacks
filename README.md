@@ -1,1 +1,1 @@
-# WECEhacks
+# WECEhacks - The Quarantine Cook
