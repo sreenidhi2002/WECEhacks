@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: #d0e9e4;
+}
+
+.search-area input[type="text"] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+.search-area button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #db92b1;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+.search-area button:hover {
+  background: #e69ac2;
+}
+
+.search-area::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.meals {
+  cursor: pointer;
+  padding: 30px;
+  text-align: center;
+  width: 60%;
+  margin: 50px auto;
+}
+
+.info {
+  cursor: pointer;
+  padding: 30px;
+
+  width: 60%;
+  margin: 50px auto;
+}
+
+.meals img {
+  width: 350px;
+  height: 350px;
+  border: 1px solid;
+}
+
+.meals h2 {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 15px;
+}
+
+h4.error {
+  padding: 5px;
+  text-align: center;
+  float: center;
+}
+
+
+.header1 {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+}
+
+.header2 {
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+}
+
+.padded{
+    padding-bottom: 20px;
+}
+
+.h2 {
+  padding: 5px;
+  text-align: center;
+  float: center;
+}
