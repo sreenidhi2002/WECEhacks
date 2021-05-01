@@ -4,6 +4,8 @@
 ## Team Members: Sarah Schaber, Sreenidhi Vijayaraghavan, Aishee Mondal
 ## Category: Beginner
 
+## Link to demo: https://replit.com/@sreenidhi2002/WECEhacksQuarantineCook
+
 <p> One of the most exciting and prevalent activities we all have done in quarantine has been cooking and baking. Drawing inspiration from this, we decided to create our webpage that allows users to easily decide on exciting recipes based on a featured ingredient they have at home. 
 
 <p> We also have a search option based on the kind of food you want to make for the day as well as the kind of cuisine. Since the search is based on the ingredients available at home, it decreases the risk of going out multiple times to buy hard-to-find ingredients in these trying times. You could also personalize recipes around locally sourced and seasonal ingredients, which could help support small businesses and local food producers. This would allow everyone to enjoy a diverse variety of meals easily at home and thus reduce the stress of trying to figure out interesting recipes everyday. 
